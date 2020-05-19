@@ -3,4 +3,4 @@
 
 ![alt text](https://github.com/lucassantos10/clone-insta/blob/master/src/screens/Feed/print01.jpeg?raw=true)
 
-![alt text](https://github.com/lucassantos10/clone-insta/blob/master/src/screens/Feed/print02.jpeg?raw=true
+![alt text](https://github.com/lucassantos10/clone-insta/blob/master/src/screens/Feed/print02.jpeg?raw=true)
